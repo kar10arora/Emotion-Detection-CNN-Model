@@ -1,0 +1,108 @@
+Internship Report
+
+1. Introduction
+
+This report provides an overview of my internship experience at NullClass, where I worked on machine learning tasks related to emotion detection and biometric-based attendance systems. The internship duration was from January 21, 2025, to February 21, 2025.
+
+2. Background
+
+The internship focused on deep learning and machine learning applications in real-world scenarios, particularly in emotion detection using CNNs and voice recognition models. My primary responsibilities included training models, implementing algorithms, and analyzing their performance.
+
+3. Learning Objectives
+
+Gain hands-on experience with CNN-based emotion detection.
+
+Understand and implement biometric-based attendance systems.
+
+Develop voice-based emotion recognition models.
+
+Improve knowledge of deep learning frameworks such as TensorFlow and Keras.
+
+4. Activities and Tasks
+
+Task 1: Visualizing Activation Maps
+
+Implemented visualization of CNN activation maps to interpret the decision-making process of the network.
+
+Used a pre-trained model for generating heatmaps of image regions activating different CNN layers.
+
+Evaluation was done using Matplotlib and OpenCV.
+
+Task 2: Attendance System Model
+
+Developed a machine learning model to detect and recognize students' faces in real time.
+
+Integrated an emotion detection module to analyze students' emotions.
+
+Stored attendance records in an Excel/CSV file with timestamps.
+
+Limited detection to a fixed timeframe (9:30 AM - 10:00 AM).
+
+Task 3: Emotion Detection through Voice
+
+Trained an emotion recognition model using voice recordings.
+
+Implemented gender-based filtering, ensuring only female voices were analyzed.
+
+Developed a GUI for voice input and emotion classification.
+
+Processed both recorded and uploaded audio samples.
+
+5. Skills and Competencies Acquired
+
+Deep Learning: Enhanced knowledge of CNNs for image-based emotion detection.
+
+Audio Processing: Gained experience in feature extraction and classification for voice-based emotion detection.
+
+Computer Vision: Implemented face detection and recognition models.
+
+Data Analysis: Processed and analyzed datasets, improving model accuracy and performance.
+
+6. Challenges and Solutions
+
+Limited System Capabilities
+
+Challenge: Training deep learning models required high computational power.
+
+Solution: Used Google Colab for training models with GPU support.
+
+Data Augmentation and Model Performance
+
+Challenge: Achieving a minimum accuracy of 70% for the models.
+
+Solution: Applied data augmentation techniques to improve generalization and model robustness.
+
+Handling Large Files
+
+Challenge: Managing large model files and datasets.
+
+Solution: Uploaded model weights and datasets to Google Drive, linking them in the submission.
+
+7. Outcomes and Impact
+
+Successfully completed all assigned tasks within the given timeframe.
+
+Achieved an accuracy of 67% on CNN-based emotion detection and improved it with further tuning.
+
+Developed fully functional attendance and voice emotion detection systems.
+
+Gained valuable insights into real-world ML applications.
+
+8. Conclusion
+
+This internship provided a deep understanding of computer vision and speech processing in machine learning. It helped me strengthen my skills in deep learning, Python programming, and AI model deployment. The knowledge gained will be invaluable in my future endeavors in AI and data science.
+
+Submission Details
+
+Github Repository: [Repository Link]
+
+Model Weights & Saved Models: [Google Drive Link]
+
+Requirement File: requirements.txt
+
+Training Notebooks: Provided in .ipynb format.
+
+GUI Implementations (where required): Included in respective task folders.
+
+I express my gratitude to NullClass for this learning opportunity and look forward to applying these skills in future projects.
+
